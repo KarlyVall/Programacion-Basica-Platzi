@@ -1,2 +1,2 @@
-# Progrmaci-nb-sica
-Ejercicios básicos de javascript
+# Progrmacion básica (Curso online de Platzi)
+
