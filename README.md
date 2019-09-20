@@ -1,7 +1,7 @@
-#CURSO DE PROGRAMACION BASICA (PLATZI)
+CURSO DE PROGRAMACION BASICA (PLATZI)
 
 
-###Profesor Freddy Vega
+Profesor Freddy Vega
 
 
 En este curso de introducción a la programación se aprendieron los siguientes temas:
